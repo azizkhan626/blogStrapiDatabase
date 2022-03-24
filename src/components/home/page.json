@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_home_pages",
+  "info": {
+    "displayName": "page",
+    "icon": "atom"
+  },
+  "options": {},
+  "attributes": {
+    "azizkhan": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
